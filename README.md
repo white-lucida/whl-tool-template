@@ -2,7 +2,7 @@
 
 DenoでDiscord Slash Commandのhandlerを実装する際のテンプレートです。
 
-[Run on Deno Deploy](https://dash.deno.com/new?url=https://raw.githubusercontent.com/white-lucida/whl-tool-template/src/server/mod.ts&env=DISCORD_BOT_TOKEN,DISCORD_PUBLIC_KEY)
+[Run on Deno Deploy](https://dash.deno.com/new?url=https://raw.githubusercontent.com/white-lucida/whl-tool-template/main/src/server/mod.ts&env=DISCORD_BOT_TOKEN,DISCORD_PUBLIC_KEY)
 
 ## sources
 
