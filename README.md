@@ -4,5 +4,6 @@ DenoでDiscord Slash Commandのhandlerを実装する際のテンプレートで
 
 ## sources
 
-- https://deno.com/deploy/docs/tutorial-discord-slash The code helped us to
-  create this template. Thanks.
+- https://github.com/denoland/deploy_examples/tree/main/discord
+
+The codes helped us to create this template. Thanks.
